@@ -4,8 +4,15 @@ Our Gated Recurrent Unit (GRU) model predicts a tropical cyclone's next 24 hours
 
 The dataset can be found on Kaggle under "Hurricanes and Typhoons, 1851-2014" from National Oceanic and Atmospheric Administration (NOAA).
 
+https://www.kaggle.com/datasets/noaa/hurricane-database
+
 ## Getting Started
 These are the instructions to set up the project locally.
 
 ### Prerequisites
-There are two prerequisite to run this project. First, you require a software that allows you to open and run a .ipynb file. Second, you require Python to run the code in the notebook and install the requirements for the project.
+There are two prerequisite to run this project. First, you require a software that allows you to open and run a .ipynb file, such as Visual Studio Code. Second, you require Python to run the code in the notebook, as well as to install the requirements for the project.
+
+### Installations
+
+
+You can install the requirements directly onto your PC or create a virtual environment where you can install them instead. 

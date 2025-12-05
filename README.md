@@ -41,11 +41,14 @@ venv\Scripts\activate
 ```
 Note that depending on your security configuration, you might not be permitted to run this activation command on PowerShell. Run instead on Command Prompt (CMD).
 
-In addition, if you create the virtual environment, ensure that the notebook is running on the kernel within the virtual environment. 
-
 <br>
 
 Install Required Libraries:
 ```sh
 pip install -r requirements.txt
+```
+If you create the virtual environment, ensure that the notebook is running on the kernel within the virtual environment.
+You will also require to install ipykernel on the virtual environment:
+```sh
+pip install ipykernel
 ```

@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/noaa/hurricane-database
 These are the instructions to set up the project locally.
 
 ### Prerequisites
-There are two prerequisite to run this project. First, you require a software that allows you to open and run a .ipynb file, such as Visual Studio Code. Second, you require Python to run the code in the notebook, as well as to install the requirements for the project. You may also require Git to clone the repository.
+There are two prerequisite to run this project. First, you require a software that allows you to open and run a .ipynb file, such as Visual Studio Code with the Jupyter extension. Second, you require Python to run the code in the notebook, as well as to install the requirements for the project. You may also require Git to clone the repository.
 
 ### Repository
 If you have Git installed on your PC, you can run the below Git clone command on a command-line interface.

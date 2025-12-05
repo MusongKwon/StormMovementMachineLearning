@@ -5,5 +5,6 @@ Our Gated Recurrent Unit (GRU) model predicts a tropical cyclone's next 24 hours
 The dataset can be found on Kaggle under "Hurricanes and Typhoons, 1851-2014" from National Oceanic and Atmospheric Administration (NOAA).
 
 ## Getting Started
+These are the instructions to set up the project locally.
 
 ### Prerequisites

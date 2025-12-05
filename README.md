@@ -13,6 +13,9 @@ These are the instructions to set up the project locally.
 There are two prerequisite to run this project. First, you require a software that allows you to open and run a .ipynb file, such as Visual Studio Code. Second, you require Python to run the code in the notebook, as well as to install the requirements for the project.
 
 ### Installations
-
+Clone the Repository
+```sh
+git clone https://github.com/MusongKwon/StormMovementMachineLearning.git
+```
 
 You can install the requirements directly onto your PC or create a virtual environment where you can install them instead. 

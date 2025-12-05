@@ -48,7 +48,9 @@ Install Required Libraries:
 pip install -r requirements.txt
 ```
 If you create the virtual environment, ensure that the notebook is running on the kernel within the virtual environment.
+
 You will also require to install ipykernel on the virtual environment:
 ```sh
 pip install ipykernel
 ```
+

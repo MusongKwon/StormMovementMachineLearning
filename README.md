@@ -6,13 +6,13 @@ The dataset can be found on Kaggle under "Hurricanes and Typhoons, 1851-2014" fr
 
 https://www.kaggle.com/datasets/noaa/hurricane-database
 
-## Getting Started
+## Getting Set Up
 These are the instructions to set up the project locally.
 
 ### Prerequisites
 There are two prerequisite to run this project. First, you require a software that allows you to open and run a .ipynb file, such as Visual Studio Code. Second, you require Python to run the code in the notebook, as well as to install the requirements for the project. You may also require Git to clone the repository.
 
-### Installations
+### Repository
 If you have Git installed on your PC, you can run the below Git clone command on a command-line interface.
 
 Clone the Repository:
@@ -22,7 +22,7 @@ git clone https://github.com/MusongKwon/StormMovementMachineLearning.git
 If you do not have Git installed and do not wish to, you can download the the repository as a ZIP file and unzip onto you PC.
 
 
-<br>
+### Installation
 There are three python libraries required to run the project: pandas, numpy, and torch.
 
 You can install the requirements directly onto your PC or create a virtual environment where you can install them instead.

@@ -31,11 +31,20 @@ Create a virtual environment (optional):
 ```sh
 python -m venv venv
 ```
-Activate the virtual environment on macOS or Linux:
+Activate the virtual environment on macOS or Linux (optional):
 ```sh
 source venv/bin/activate
 ```
-Activate the virtual environment on Windows:
+Activate the virtual environment on Windows (optional):
 ```sh
 venv\Scripts\activate
+```
+Note that depending on your security configuration, you might not be permitted to run this activation command on PowerShell. Run instead on Command Prompt (CMD).
+
+In addition, if you create the virtual environment, ensure that the notebook is running on the kernel within the virtual environment. 
+
+<br>
+Install Required Libraries:
+```sh
+pip install -r requirements.txt
 ```

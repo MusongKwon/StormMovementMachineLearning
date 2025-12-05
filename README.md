@@ -23,4 +23,18 @@ If you do not have Git installed and do not wish to, you can download the the re
 
 
 There are three python libraries required to run the project: pandas, numpy, and torch.
-You can install the requirements directly onto your PC or create a virtual environment where you can install them instead. 
+
+You can install the requirements directly onto your PC or create a virtual environment where you can install them instead.
+
+Create a virtual environment (optional):
+```sh
+python -m venv venv
+```
+Activate the virtual environment on macOS or Linux:
+```sh
+source venv/bin/activate
+```
+Activate the virtual environment on Windows:
+```sh
+venv\Scripts\activate
+```

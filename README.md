@@ -8,3 +8,4 @@ The dataset can be found on Kaggle under "Hurricanes and Typhoons, 1851-2014" fr
 These are the instructions to set up the project locally.
 
 ### Prerequisites
+There are two prerequisite to run this project. First, you require a software that allows you to open and run a .ipynb file. Second, you require Python to run the code in the notebook and install the requirements for the project.

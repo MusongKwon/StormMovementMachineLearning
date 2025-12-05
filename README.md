@@ -44,6 +44,7 @@ Note that depending on your security configuration, you might not be permitted t
 In addition, if you create the virtual environment, ensure that the notebook is running on the kernel within the virtual environment. 
 
 <br>
+
 Install Required Libraries:
 ```sh
 pip install -r requirements.txt

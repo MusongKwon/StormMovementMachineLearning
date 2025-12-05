@@ -21,4 +21,6 @@ git clone https://github.com/MusongKwon/StormMovementMachineLearning.git
 ```
 If you do not have Git installed and do not wish to, you can download the the repository as a ZIP file and unzip onto you PC.
 
+
+There are three python libraries required to run the project: pandas, numpy, and torch.
 You can install the requirements directly onto your PC or create a virtual environment where you can install them instead. 

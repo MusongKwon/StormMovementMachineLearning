@@ -14,11 +14,11 @@ There are two prerequisite to run this project. First, you require a software th
 
 ### Installations
 If you have Git installed on your PC, you can run the below Git clone command on a command-line interface.
+
 Clone the Repository:
 ```sh
 git clone https://github.com/MusongKwon/StormMovementMachineLearning.git
 ```
-
 If you do not have Git installed and do not wish to, you can download the the repository as a ZIP file and unzip onto you PC.
 
 You can install the requirements directly onto your PC or create a virtual environment where you can install them instead. 
